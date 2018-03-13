@@ -1,2 +1,0 @@
-# OT
-Practice project
